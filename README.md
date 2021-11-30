@@ -14,3 +14,4 @@ Talk to me about...
 * Out in Tech
 
 [![Ian's GitHub stats](https://github-readme-stats.vercel.app/api?username=ian-christiansen&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ian-christiansen&layout=compact&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
