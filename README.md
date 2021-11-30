@@ -9,6 +9,7 @@ Software developer transitioning from a background in wildlife education and bus
 ###  💖 Communities
 * Alchemy 
 * Out in Tech
-
+---
+---
 [![Ian's GitHub stats](https://github-readme-stats.vercel.app/api?username=ian-christiansen&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
