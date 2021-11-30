@@ -3,8 +3,7 @@ Software developer transitioning from a background in wildlife education and bus
 
 ---
 
-### 🖥 Technologies
-Talk to me about...
+### 🖥 Talk to me about...
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ian-christiansen&layout=compact&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 ###  💖 Communities
