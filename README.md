@@ -12,3 +12,5 @@ Talk to me about...
 ###  💖 Communities
 * Alchemy 
 * Out in Tech
+
+[![Ian's GitHub stats](https://github-readme-stats.vercel.app/api?username=ian-christiansen)](https://github.com/anuraghazra/github-readme-stats)
