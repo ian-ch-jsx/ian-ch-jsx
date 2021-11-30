@@ -13,4 +13,4 @@ Talk to me about...
 * Alchemy 
 * Out in Tech
 
-[![Ian's GitHub stats](https://github-readme-stats.vercel.app/api?username=ian-christiansen&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Ian's GitHub stats](https://github-readme-stats.vercel.app/api?username=ian-christiansen&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
