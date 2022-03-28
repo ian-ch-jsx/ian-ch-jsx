@@ -4,7 +4,7 @@ I am a software developer transitioning from a background in wildlife education 
 ---
 
 ### 🖥 Talk to me about...
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ian-christiansen&layout=compact&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ian-ch-jsx&layout=compact&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Ian's GitHub stats](https://github-readme-stats.vercel.app/api?username=ian-christiansen&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Ian's GitHub stats](https://github-readme-stats.vercel.app/api?username=ian-ch-jsx&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
