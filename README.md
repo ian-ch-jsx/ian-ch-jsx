@@ -4,7 +4,7 @@
 
 I am a software developer transitioning from a background in wildlife education and business management. As a lifelong learner with a diverse professional background, I thrive in collaborative environments where unique perspectives can come together to solve complex problems. I strive to continue to participate in socially responsible work through advocacy, teaching, and learning - both professionally and personally.
 
-<h3 align="center">Proficiencies</h3>
+<h2 align="center">Proficiencies</h3>
 
 <div align="center">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3">
