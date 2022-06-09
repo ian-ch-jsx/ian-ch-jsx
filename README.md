@@ -1,4 +1,4 @@
-<h1 align="center"> What's up? </h1>
+<h1 align="center">🌈 What's up?🌈 </h1>
 
 <h3 align="center">I'm Ian.</h3>
 
